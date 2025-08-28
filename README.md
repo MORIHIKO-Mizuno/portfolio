@@ -26,7 +26,7 @@
   - Markov Chain Monte Carlo によるパラメータ推定  
   - 数理シミュレーションでLRA（潜伏感染再活性化剤）の効果を定量化
 - **技術**: Python (NumPy, pandas, matplotlib), Stan, R
-- **リポジトリ**: [hiv-latency-analysis](https://github.com/username/hiv-latency-analysis)  
+- **リポジトリ**: [HIV-Tocky-analysis](https://github.com/username/HIV-Tocky-analysis)  
 - **概略**: [研究概要（PDF）](slides/研究概要.pdf)
 
 ---
