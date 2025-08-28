@@ -41,7 +41,7 @@
 
 ---
 
-## Machine Learning in Mental Health MRI Analysis
+### 3. Machine Learning in Mental Health MRI Analysis
 - 現在進行中の研究のためコード非公開
 - 使用技術: Python, scikit-learn, SHAP, UMAP, Spectral Clustering
 - 概要: MRI測定値と精神疾患症状の関係を機械学習で解析し、分類器を作成
