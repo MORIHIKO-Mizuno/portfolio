@@ -26,7 +26,7 @@
   - Markov Chain Monte Carlo によるパラメータ推定  
   - 数理シミュレーションでLRA（潜伏感染再活性化剤）の効果を定量化
 - **技術**: Python (NumPy, pandas, matplotlib), Stan, R
-- **リポジトリ**: [HIV-Tocky-analysis](https://github.com/username/HIV-Tocky-analysis)  
+- **リポジトリ**: [HIV-Tocky-analysis](https://github.com/MORIHIKO-Mizuno/HIV-Tocky-analysis)  
 - **概略**: [研究概要（PDF）](slides/研究概要.pdf)
 
 ---
@@ -37,7 +37,7 @@
   - 画像アップロード・処理・結果出力までの簡易パイプラインを実装  
   - ユーザーがブラウザ上で操作可能なUIを構築
 - **技術**: Python, Streamlit, OpenCV
-- **リポジトリ**: [webapp-demo](https://github.com/username/webapp-demo)
+- **リポジトリ**: [webapp-demo](https://github.com/MORIHIKO-Mizuno/gazo-ikkatsu)
 
 ---
 
