@@ -27,7 +27,7 @@
   - 数理シミュレーションでLRA（潜伏感染再活性化剤）の効果を定量化
 - **技術**: Python (NumPy, pandas, matplotlib), Stan, R
 - **リポジトリ**: [HIV-Tocky-analysis](https://github.com/MORIHIKO-Mizuno/HIV-Tocky-analysis)  
-- **概略**: [研究概要（PDF）](slides/研究概要.pdf)
+- **概略**: [研究概要（PDF）](研究概要.pdf)
 
 ---
 
@@ -45,7 +45,7 @@
 - 現在進行中の研究のためコード非公開
 - 使用技術: Python, scikit-learn, SHAP, UMAP, Spectral Clustering
 - 概要: MRI測定値と精神疾患症状の関係を機械学習で解析し、分類器を作成
-- **概略**: [研究概要（PDF）](slides/研究概要.pdf)
+- **概略**: [研究概要（PDF）](研究概要.pdf)
 
 ---
 
