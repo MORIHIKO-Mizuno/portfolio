@@ -25,9 +25,9 @@
   - Timer蛍光タンパクを用いた潜伏感染細胞の動態分析  
   - Markov Chain Monte Carlo によるパラメータ推定  
   - 数理シミュレーションでLRA（潜伏感染再活性化剤）の効果を定量化
-- **技術**: Python (NumPy, pandas, matplotlib), Stan, R
+- **技術**: R, C++
 - **リポジトリ**: [HIV-Tocky-analysis](https://github.com/MORIHIKO-Mizuno/HIV-Tocky-analysis)  
-- **概略**: [研究概要（PDF）](research_overview.pdf)
+- **概略**: [research_overview（PDF）](research_overview.pdf)
 
 ---
 
@@ -37,7 +37,7 @@
   - 画像アップロード・処理・結果出力までの簡易パイプラインを実装  
   - ユーザーがブラウザ上で操作可能なUIを構築
 - **技術**: Python, Streamlit, OpenCV
-- **リポジトリ**: [webapp-demo](https://github.com/MORIHIKO-Mizuno/gazo-ikkatsu)
+- **リポジトリ**: [gazo-ikkatsu](https://github.com/MORIHIKO-Mizuno/gazo-ikkatsu)
 
 ---
 
@@ -45,7 +45,7 @@
 - 現在進行中の研究のためコード非公開
 - 使用技術: Python, scikit-learn, SHAP, UMAP, Spectral Clustering
 - 概要: MRI測定値と精神疾患症状の関係を機械学習で解析し、分類器を作成
-- **概略**: [研究概要（PDF）](research_overview.pdf)
+- **概略**: [research_overview（PDF）](research_overview.pdf)
 
 ---
 
